@@ -2,4 +2,4 @@
 
 # Installation
 mods/update/x64/dlcpacks
-<Item>dlcpacks:/18ucram/</Item>
+--<Item>dlcpacks:/18ucram/</Item>
